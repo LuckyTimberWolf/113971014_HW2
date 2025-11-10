@@ -1,0 +1,22 @@
+{
+    "TF-IDF": {
+        "sim_time": 0.004462003707885742,
+        "sim_cost": 0,
+        "sim_accuracy": "?%",
+        "cls_time": 0.0018718242645263672,
+        "cls_accuracy": "50.0%",
+        "sum_time": 0.00669407844543457,
+        "sum_info_retention": "?%",
+        "sum_coherence": "?分"
+    },
+    "GPT-4o": {
+        "sim_time": 0.5117249488830566,
+        "sim_cost": "$0.001?",
+        "sim_accuracy": "?%",
+        "cls_time": 2.587336778640747,
+        "cls_accuracy": "100.0%",
+        "sum_time": 1.8696329593658447,
+        "sum_info_retention": "?%",
+        "sum_coherence": "?分"
+    }
+}
